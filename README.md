@@ -8,23 +8,43 @@ I'm Software Developer from the Guatemala, I have dedicated myself to specializi
 
 💻 I really love learning new things!!! 💚💕
 
-I invite you to my Personal Blog <a href="https://jimsolutions54.wordpress.com/blog/</a> 
+I invite you to my Personal Blog <a href="https://jimsolutions54.wordpress.com/blog/"</a> 
 
+<hr />
 
+## 🛠️ TECH STACK 
+[![.Net](https://img.shields.io/badge/-DotNet-61DAFB?logo=dotnet&logoColor=white)]() |
+[![CSharp](https://img.shields.io/badge/-CSharp-61DAFB?logo=CSharp&logoColor=white)]() |   
+   
 <hr />
 
 ## 📱 Mobile Skills 
-<a target="_blank"><img src="https://img.shields.io/badge/-Xamarin-%23d65e9a" height="41" width="100"></a> |
-<a target="_blank"><img src="https://img.shields.io/badge/-XAML-%230f95a0" height="41" width="100"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Flutter-blue?logo=Flutter&logoColor=white" ></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/-Xamarin-4169E1?logo=Xamarin&logoColor=white" ></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/-Android-4169E1?logo=Android&logoColor=white" ></a> |
 
 
 <hr />
 
-<a target="_blank"><img src="https://img.shields.io/badge/-Angular-000000?logo=angular&logoColor=red&style=for-the-badge"></a>
+## 🌐 Web Skills 
+<a target="_blank"><img src="https://img.shields.io/badge/-Angular-000000?logo=angular&logoColor=red&style=for-the-badge"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/-React-00BFFF?logo=react&logoColor=blue"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/-Typescript-00BFFF?logo=typescript&logoColor=blue"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/HTML-239120?&logo=html5&logoColor=white"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?&logo=JavaScript&logoColor=white"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/CSS-pink?&logo=CSS3&logoColor=white"></a> | 
+ 
 
-## 📝  Contact me!
-   
-<a href="https://do.linkedin.com/in/leomaris-reyes-1b598661" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230f95a0" height="41" width="100"></a> | <a href="https://twitter.com/LeomarisReyes11" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23d65e9a" height="41" width="100"></a> | <a href="mailto:reyes.leomaris@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-%20%20Email%20%20-%230f95a0" height="41" width="100"></a> 
+## 💡 Others Skills 
+<a target="_blank"><img src="https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure&logoColor=red&style=for-the-badge"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/-SQLServer-white?logo=microsoft-sql-server&logoColor=red"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=blue"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/Git-black?&logo=github&logoColor=white"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/VisualStudio-1E90FF?&logo=VisualStudio&logoColor=white"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-7B68EE?&logo=VisualStudioCode&logoColor=white"></a> |
+<a target="_blank"><img src="https://img.shields.io/badge/Boostrap-pink?&logo=Boostrap&logoColor=white"></a> 
+    
+
 
 
 
