@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Software Developer from the Guatemala, I have dedicated myself to specializing in .NET, making personal projects putting in practice good practices and dessign patterns. 🎮I have development desktop application, mobile applications and games👾!
+I'm Software Developer from the Guatemala, I have dedicated myself to specializing in .NET, carrying out personal projects always using good practices and design patterns. 🎮I have developed desktop apps, mobile apps and games👾!
 
 🎧Lover of Music🎶
 
@@ -8,7 +8,7 @@ I'm Software Developer from the Guatemala, I have dedicated myself to specializi
 
 💻 I really love learning new things!!! 💚💕
 
-I invite you to my Personal Blog <a href="https://jimsolutions54.wordpress.com/blog/"</a> 
+I invite you to my Personal Blog <a href="https://jimsolutions54.wordpress.com/blog/">Here!</a> 
 
 <hr />
 
